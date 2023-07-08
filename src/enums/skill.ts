@@ -2,7 +2,7 @@
 export enum skillKind {
   DEV = 'development',
   DESIGN = 'design',
-  OPS = 'operations',
+  OPS = 'ops',
   VIDEO = 'videography',
   STRATEGY = 'strategy',
   WRITING = 'writing',
